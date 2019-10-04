@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCheckins</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="applink">Use
+<a href="https://www.wikihow.com/Check-in-on-Facebook">"https://www.wikihow.com/Check-in-on-Facebook"</a>
+</string>
+    <string name="New">New</string>
+    <string name="Help">Help</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
